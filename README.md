@@ -2,9 +2,9 @@
 CS-230 Module 8 Journal 
 
 
-Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?  
+`Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?` 
 
-The Gaming Room is a client we took on wishing to expand their game to more operating platforms. Currently, the game is only available on Android. To expand the game, they wanted the game to be hosted on the web however, they do not know how to set up the environment. They wanted the software to meet certain requirements which can be found in the requirement section of the doc.  
+The Gaming Room is a client we took on wishing to expand their game to more operating platforms. Currently, the game is only available on Android. To expand the game, they wanted the game to be hosted on the web however, they do not know how to set up the    	environment. They wanted the software to meet certain requirements which can be found in the requirement section of the doc.  
 
    
 
