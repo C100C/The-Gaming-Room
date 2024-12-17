@@ -1,6 +1,10 @@
 # The-Gaming-Room
 CS-230 Module 8 Journal 
 
+This is a software design doc I did for a school project. 
+I also include the code along with the doc. 
+Not all of the code is mine. The author is credited in the code comments.
+
 
 `Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?` 
 
