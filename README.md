@@ -38,6 +38,6 @@ The user is who will be using the application or the game, not the developer. Th
 
    
 
-How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?  
+`How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?` 
 
 I approached designing the software by first considering my constraints. What can I and cannot do?  This helped me identify the steps I needed to take to meet the client's needs. In the future, I will get as much information from the client as possible. Making it clear what they want me to make for them. Then translate their needs into design patterns, OOP principles, and other ways to build software. 
